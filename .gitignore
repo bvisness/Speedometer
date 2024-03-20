@@ -17,6 +17,10 @@
 /resources/todomvc/architecture-examples/preact-complex/node_modules/
 /resources/todomvc/architecture-examples/react/node_modules/
 /resources/todomvc/architecture-examples/react-complex/node_modules/
+/resources/todomvc/architecture-examples/react-objdestructure/node_modules/
+/resources/todomvc/architecture-examples/react-complex-objdestructure/node_modules/
+/resources/todomvc/architecture-examples/react-nodestructure/node_modules/
+/resources/todomvc/architecture-examples/react-complex-nodestructure/node_modules/
 /resources/todomvc/architecture-examples/react-redux/node_modules/
 /resources/todomvc/architecture-examples/react-redux-complex/node_modules/
 /resources/todomvc/architecture-examples/svelte/node_modules/
